@@ -608,7 +608,7 @@ attached base packages:
 loaded via a namespace (and not attached):
 [1] BiocManager_1.30.25 compiler_4.5.2      tools_4.5.2        
 [4] yaml_2.3.10         knitr_1.50          xfun_0.52          
-[7] renv_1.1.5          evaluate_1.0.3     
+[7] renv_1.1.8          evaluate_1.0.3     
 ```
 
 ### Where to ask for help?
