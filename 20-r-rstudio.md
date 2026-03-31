@@ -585,7 +585,7 @@ sessionInfo()
 ```
 
 ``` output
-R version 4.5.2 (2025-10-31)
+R version 4.5.3 (2026-03-11)
 Platform: x86_64-pc-linux-gnu
 Running under: Ubuntu 22.04.5 LTS
 
@@ -606,9 +606,9 @@ attached base packages:
 [1] stats     graphics  grDevices utils     datasets  methods   base     
 
 loaded via a namespace (and not attached):
-[1] BiocManager_1.30.25 compiler_4.5.2      tools_4.5.2        
+[1] BiocManager_1.30.25 compiler_4.5.3      tools_4.5.3        
 [4] yaml_2.3.10         knitr_1.50          xfun_0.52          
-[7] renv_1.1.8          evaluate_1.0.3     
+[7] renv_1.2.0          evaluate_1.0.3     
 ```
 
 ### Where to ask for help?
